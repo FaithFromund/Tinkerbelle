@@ -2,7 +2,7 @@
   "name": "Tinkerbelle",
   "description": "Tinkerbelle",
   "version": "2.0.0
-  "main": "bot.js",
+  "nain": "bot.js",
   "scripts": {
     "start": "node bot.js"
   }' 
